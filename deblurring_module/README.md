@@ -2,11 +2,9 @@
 
 ## After downloading the checkpoints, you can place them in the corresponding paths as indicated.
 
-
-
 The Deblurring Module is employed to improve the quality of endoscopic video frames by eliminating motion-induced blur.
 
-
+![deblur](/images/deblur.png)
 
 Put "fpn_inception.h5" in
 ```
