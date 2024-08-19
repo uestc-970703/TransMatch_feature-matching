@@ -2,7 +2,7 @@
 
 ## After downloading the checkpoints, you can place them in the corresponding paths as indicated.
 
-
+![interpolate-net](/images/interpolate-net.png)
 
 The Transition Frames Bridging Module decomposes large motions by utilizing intermediate frame interpolation.
 
