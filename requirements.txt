@@ -1,0 +1,16 @@
+torch
+einops
+torchvision
+opencv-python
+kornia
+albumentations
+loguru
+tqdm
+matplotlib
+numpy
+h5py
+wandb
+ffmpeg
+mkl
+ninja
+tornado
