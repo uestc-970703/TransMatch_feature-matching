@@ -11,17 +11,17 @@ password：`zj73`
 
 Please refer to the other README files to place the checkpoints in the corresponding paths.
 
+## Download raw videos
+The raw videos from clinical collection for testing can be accessed via the Baidu Cloud link： 
+https://pan.baidu.com/s/1u1ji9XNCUnhg98MNnIqmvQ 
+
+password：`a7z3`
+
 ## Download Data
 A portion of the test set can be accessed via the Baidu Cloud link： 
 https://pan.baidu.com/s/1bZGNfewtsO9MSjMLaKxhKg
 
 password：`f3pa`
-
-## Download raw videos
-The raw videos from clinical collection can be accessed via the Baidu Cloud link： 
-https://pan.baidu.com/s/1u1ji9XNCUnhg98MNnIqmvQ 
-
-password：`a7z3`
 
 Here we provided 8 complete videos of practical gastroscopy screening.
 
