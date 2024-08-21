@@ -5,7 +5,7 @@ code for "TransMatch: Employing Bridging Strategy to Overcome Large Deformation 
 
 ## Download Checkpoints
 Pre-trained models can be accessed via the Baidu Cloud link：
-https://pan.baidu.com/s/1p6z_uk9byUKTJCbaVtX_MA?pwd=zj73 
+https://pan.baidu.com/s/1p6z_uk9byUKTJCbaVtX_MA
 
 password：`zj73`
 
@@ -13,9 +13,17 @@ Please refer to the other README files to place the checkpoints in the correspon
 
 ## Download Data
 A portion of the test set can be accessed via the Baidu Cloud link： 
-https://pan.baidu.com/s/1bZGNfewtsO9MSjMLaKxhKg?pwd=f3pa 
+https://pan.baidu.com/s/1bZGNfewtsO9MSjMLaKxhKg
 
 password：`f3pa`
+
+## Download raw videos
+The raw videos from clinical collection can be accessed via the Baidu Cloud link： 
+https://pan.baidu.com/s/1u1ji9XNCUnhg98MNnIqmvQ 
+
+password：`a7z3`
+
+Here we provided 8 complete videos of practical gastroscopy screening.
 
 If you would like access to the training set and additional test data, please leave a message to contact us!
 
