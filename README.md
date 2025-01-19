@@ -32,14 +32,14 @@ If you would like access to the training set and additional test data, please le
 The in-house data labeling for feature matching in gastroscopy scenario can be downloaded via the Baidu Cloud link：
 https://pan.baidu.com/s/1rPriqu2e0ceMw9he9iofqg 
 
-password：'b1c3'
+password：`b1c3`
 
 Each set includes two images to be matched and a JSON file annotated by professional doctors with 60 matching pairs.
 
 Gastroscopy video clips annotated with forward or backward directions can be downloaded via the Baidu Cloud link： 
 https://pan.baidu.com/s/1SUVz195_9Zwnw8iqKL8HvA 
 
-password：'g1s7'
+password：`gls7`
 
 The performance of the feature matching methods can be validated through this downstream task.
 
