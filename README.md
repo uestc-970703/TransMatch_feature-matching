@@ -28,7 +28,7 @@ Here we provided 8 complete videos of practical gastroscopy screening.
 If you would like access to the training set and additional test data, please leave a message to contact us!
 
 
-## Download Data Labeling
+## Download In-house Labeling
 The in-house data labeling for feature matching in gastroscopy scenario can be downloaded via the Baidu Cloud link：
 https://pan.baidu.com/s/1rPriqu2e0ceMw9he9iofqg 
 
